@@ -3,7 +3,7 @@ id: '1'
 price: '400'
 title: Iphone
 description: Get an iphone for cheap right now.
-default_thumbnail_image: images/plant1.jpg
+default_thumbnail_image: images/laptop.jpg
 default_original_image: images/plant1-lg.jpg
 featured: true
 order: 1
