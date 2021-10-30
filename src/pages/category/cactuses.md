@@ -1,5 +1,5 @@
 ---
-title: Cactuses
+title: Computer
 order: 2
 seo:
   title: Cactuses
