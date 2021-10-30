@@ -1,6 +1,6 @@
 ---
 id: '1'
-price: '49.40'
+price: '400'
 title: Iphone
 description: Get an iphone for cheap right now.
 default_thumbnail_image: images/plant1.jpg
