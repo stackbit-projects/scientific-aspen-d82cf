@@ -3,7 +3,7 @@ id: '3'
 title: PC
 description: Get a cheap PC now
 default_thumbnail_image: images/pc.jpg
-default_original_image: images/plant3-lg.jpg
+default_original_image: images/pc.jpg
 featured: true
 order: 3
 category: src/pages/category/cactuses.md
