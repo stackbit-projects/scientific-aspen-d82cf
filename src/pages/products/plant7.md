@@ -2,7 +2,7 @@
 id: '7'
 price: '18.90'
 default_thumbnail_image: images/keyboard.jpg
-default_original_image: images/plant7-lg.jpg
+default_original_image: images/keyboard-6757cab4.jpg
 order: 7
 category: src/pages/category/bigplants.md
 seo:
