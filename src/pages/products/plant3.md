@@ -1,6 +1,5 @@
 ---
 id: '3'
-price: '150.00'
 title: PC
 description: Get a cheap PC now
 default_thumbnail_image: images/plant3.jpg
