@@ -2,7 +2,7 @@
 title: Phone
 order: 1
 seo:
-  title: Big plants
+  title: Phone
   description: This is the store page
   extra:
     - name: 'og:type'
