@@ -2,7 +2,7 @@
 title: Computer
 order: 2
 seo:
-  title: Cactuses
+  title: Computer
   description: This is the store page
   extra:
     - name: 'og:type'
