@@ -1,5 +1,5 @@
 ---
-title: Screen
+title: Accessory
 order: 1
 seo:
   title: Phone
