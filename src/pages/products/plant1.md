@@ -4,7 +4,7 @@ price: '400'
 title: Iphone
 description: Get an iphone for cheap right now.
 default_thumbnail_image: images/laptop.jpg
-default_original_image: images/plant1-lg.jpg
+default_original_image: images/laptop-6397a9ef.jpg
 featured: true
 order: 1
 category: src/pages/category/bigplants.md
