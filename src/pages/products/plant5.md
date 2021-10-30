@@ -36,6 +36,7 @@ seo:
       value: images/plant5-lg.jpg
       relativeUrl: true
 template: product
+title: Monitor
 ---
 
 # Vestibulum eget
