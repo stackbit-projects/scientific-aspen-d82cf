@@ -33,6 +33,7 @@ seo:
       relativeUrl: true
 template: product
 title: Keyboard
+description: ' a '
 ---
 
 # Sed consectetur
