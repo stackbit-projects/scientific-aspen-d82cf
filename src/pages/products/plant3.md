@@ -34,6 +34,7 @@ seo:
       value: images/plant3-lg.jpg
       relativeUrl: true
 template: product
+price: '1500'
 ---
 
 # Curabitur eu tempor
