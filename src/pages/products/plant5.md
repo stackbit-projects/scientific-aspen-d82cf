@@ -2,7 +2,7 @@
 id: '5'
 price: '220.00'
 description: Get a cheap monitor now
-default_thumbnail_image: images/plant5.jpg
+default_thumbnail_image: images/monitor.jpg
 default_original_image: images/plant5-lg.jpg
 featured: true
 order: 5
