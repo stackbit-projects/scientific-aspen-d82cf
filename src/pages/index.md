@@ -6,11 +6,8 @@ sections:
     section_id: hero_section
     background_image: images/Untitled design (3).png
     background_image_opacity: 65
-    content: >-
-      # Real, beautiful plants right to your door
-
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+    content: |
+      # Get cheap and awesome products, right now!
     actions:
       - title: See all items
         url: /store
