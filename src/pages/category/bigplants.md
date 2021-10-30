@@ -1,5 +1,5 @@
 ---
-title: Phone
+title: Screen
 order: 1
 seo:
   title: Phone
