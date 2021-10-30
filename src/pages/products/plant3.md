@@ -2,7 +2,7 @@
 id: '3'
 price: '150.00'
 title: PC
-description: 'Nulla non pretium metus, vitae finibus lectus.'
+description: Get a cheap PC now
 default_thumbnail_image: images/plant3.jpg
 default_original_image: images/plant3-lg.jpg
 featured: true
