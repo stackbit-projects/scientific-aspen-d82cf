@@ -2,7 +2,7 @@
 id: '1'
 price: '49.40'
 title: Iphone
-description: .
+description: Get an iphone for cheap right now.
 default_thumbnail_image: images/plant1.jpg
 default_original_image: images/plant1-lg.jpg
 featured: true
