@@ -13,10 +13,6 @@ sections:
         url: /store
         arrow: true
         style: secondary
-      - title: lorem-ipsum
-        url: '#'
-        style: primary
-        arrow: false
   - type: featured_products_section
     section_id: best_sellers_section
     title: Best sellers
